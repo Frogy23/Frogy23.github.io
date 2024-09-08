@@ -7,7 +7,7 @@
 }
 
 header {
-    background-image: url(/img/BannerTrimestral.png);
+    background-image: url(BannerTrimestral.png);
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
@@ -144,7 +144,7 @@ nav {
 }
 
 .favicon {
-    background-image: url(/img/favicon1.png);
+    background-image: url(favicon1.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 65px;
@@ -267,7 +267,7 @@ transform: translateY(-2%);
 
 .tarj-display .tarjetas #contenido-tarj1{
 width: 500px;
-background-image: url(/img/tarj1.jpg);
+background-image: url(tarj1.jpg);
 background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
@@ -279,7 +279,7 @@ border-end-start-radius: 20px;
 
 .tarj-display .tarjetas #contenido-tarj2{
 width: 500px;
-background-image: url(/img/tarj2.jpg);
+background-image: url(tarj2.jpg);
 background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
@@ -288,7 +288,7 @@ text-align: center;
 
 .tarj-display .tarjetas #contenido-tarj3{
 width: 500px;
-background-image: url(/img/tar3.avif);
+background-image: url(tar3.avif);
 background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
@@ -376,7 +376,7 @@ color: rgb(0, 0, 0);
     height: 50vh;
     width: 20%;
     margin: 0 20px;
-    background-image: url(/img/Aside.jpg);
+    background-image: url(Aside.jpg);
     background-position: left;
     background-repeat: no-repeat;
     background-size: cover;
@@ -616,7 +616,7 @@ color: rgb(0, 0, 0);
 }
 
 .des-aside {
-    background-image: url(img/Desafios.png);
+    background-image: url(Desafios.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
